@@ -1,0 +1,32 @@
+{
+	"name": "РЭТЭКЭ",
+	"version": "0.1.0.1",
+	"description": "",
+	"id": "",
+	"unique-id": "hj9r88op33g",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r241",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"Browser",
+		"TiledBg",
+		"Mouse",
+		"Text",
+		"Button",
+		"Keyboard",
+		"Audio",
+		"Touch"
+	],
+	"used-behaviors": [
+		"MoveTo",
+		"Bullet",
+		"LOS"
+	]
+}
